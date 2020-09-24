@@ -1,6 +1,6 @@
 # 码志
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://weizhiwu.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -17,9 +17,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://weizhiwu.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://weizhiwu.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
@@ -56,7 +56,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 使用文档
 
-- [本博客模板常见问题 Q & A](https://mazhuang.org/2020/05/03/blog-template-qna/)。
+- [本博客模板常见问题 Q & A](https://weizhiwu.github.io/2020/05/03/blog-template-qna/)。
 
 - 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
@@ -80,7 +80,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
 
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
+<img width="192px" height="192px" src="https://weizhiwu.github.io/assets/images/qrcode.jpg"/>
 
 ## 致谢
 

@@ -30,7 +30,7 @@ keywords: GitHub, CDN, jsdelivr
 
 当然，因为页面自身还是在 GitHub Pages 托管，有时候首个请求还是会挺久才返回。
 
-改造后的效果可以打开 <https://mazhuang.org> 体验。
+改造后的效果可以打开 <https://weizhiwu.github.io> 体验。
 
 ## 方案考虑
 

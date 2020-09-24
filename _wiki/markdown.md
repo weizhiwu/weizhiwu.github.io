@@ -19,14 +19,14 @@ mindmap: true
 ### 超链接
 
 ```
-[靠谱-ing](https://mazhuang.org)
+[靠谱-ing](https://weizhiwu.github.io)
 
-<https://mazhuang.org>
+<https://weizhiwu.github.io>
 ```
 
-[靠谱-ing](https://mazhuang.org)  
+[靠谱-ing](https://weizhiwu.github.io)  
 
-<https://mazhuang.org>
+<https://weizhiwu.github.io>
 
 ### 列表
 
