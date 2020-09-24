@@ -120,14 +120,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: weizhiwu
-    repo: blog-comment
+    repo: weizhiwu.github.io
     oauth:
         client_id: a65bd969f7497e1388a8
         client_secret: 4746739066ace92b8e1d51e47478a736a8315a68
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: weizhiwu
-    repo: blog-comment
+    repo: weizhiwu.github.io
     clientID: a65bd969f7497e1388a8
     clientSecret: 4746739066ace92b8e1d51e47478a736a8315a68
 # 在使用其它评论组件时可点击显示 Disqus
